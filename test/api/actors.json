@@ -1,0 +1,28 @@
+[
+    {
+        "_id": {
+            "$oid": "58a235979e6f58679df64897"
+        },
+        "name": "george clooney",
+        "dob": {
+            "$date": "2017-02-13T22:48:54.041Z"
+        },
+        "awards": [
+            { "$oid": "58a24390512ac2c953de4478" },
+            { "$oid": "58a2439e512ac2c953de447a" }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "58a237d678fbbe12d5038a62"
+        },
+        "name": "frankie the not so famouse",
+        "dob": {
+            "$date": "2017-02-13T22:48:54.041Z"
+        },
+        "awards": [
+            { "$oid": "58a24390512ac2c953de4478" },
+            { "$oid": "58a24395512ac2c953de4479" }
+        ]
+    }
+]

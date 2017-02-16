@@ -1,0 +1,20 @@
+[
+    {
+        "_id": {
+            "$oid": "58a24390512ac2c953de4478"
+        },
+        "name": "Oscar"
+    },
+    {
+        "_id": {
+            "$oid": "58a24395512ac2c953de4479"
+        },
+        "name": "Golden Globe"
+    },
+    {
+        "_id": {
+            "$oid": "58a2439e512ac2c953de447a"
+        },
+        "name": "People's Choice"
+    }
+]
